@@ -28,6 +28,9 @@
 		<kotlin.version>1.3.10</kotlin.version>
 		<sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 
+  		<sonar.organization>siviotti-github</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 	</properties>
 
 	<!-- <scm> <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection> 
